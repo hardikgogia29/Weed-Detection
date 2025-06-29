@@ -13,7 +13,7 @@ To get started with the weed detection project using the provided code, follow t
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/deltaparticle/weed_detection_46/tree/main
+git clone https://github.com/hardikgogia29/Weed-Detection/tree/main
 ```
 ### 2. Download the dataset
 
