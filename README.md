@@ -17,7 +17,7 @@ git clone https://github.com/hardikgogia29/Weed-Detection/tree/main
 ```
 ### 2. Download the dataset
 
-Link for the dataset: https://www.kaggle.com/datasets/sumitpr96/weed-detection-dataset
+Link for the dataset:https://www.kaggle.com/datasets/hardikgogia/weed-detection-dataset
 
 ### 3. Change file path
 
